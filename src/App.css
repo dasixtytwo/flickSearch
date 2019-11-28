@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+  
+.App__header {
+  background-color: #282c34;
+  min-height: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App__logo {
+  height: 80px;
+  margin-top: 20px;
+  pointer-events: none;
+}
+
+.App__title {
+  font-size: 1.5em;
+}
+
+.App__intro {
+  max-width: 100%;
+  max-height: auto;
+}
